@@ -24,7 +24,7 @@ const projects = [
     metric: 'Languages',
     metricValue: '4+',
     githubUrl: 'https://github.com/dimasergei/codescan-ai',
-    demoUrl: 'https://frontend-k96a1pn3o-dimasergeis-projects.vercel.app',
+    demoUrl: 'https://frontend-extqczlwz-dimasergeis-projects.vercel.app',
   },
   {
     title: 'StreamPulse',
@@ -34,7 +34,7 @@ const projects = [
     metric: 'Throughput',
     metricValue: '5K/s',
     githubUrl: 'https://github.com/dimasergei/streampulse',
-    demoUrl: 'https://frontend-dvcheikhp-dimasergeis-projects.vercel.app',
+    demoUrl: 'https://frontend-la64lhwj3-dimasergeis-projects.vercel.app',
   },
   {
     title: 'AgentIQ',
@@ -44,7 +44,7 @@ const projects = [
     metric: 'Agents',
     metricValue: '3+',
     githubUrl: 'https://github.com/dimasergei/agentiq',
-    demoUrl: 'https://frontend-ocl25oxnd-dimasergeis-projects.vercel.app',
+    demoUrl: 'https://frontend-89ci8rpho-dimasergeis-projects.vercel.app',
   },
   {
     title: 'MeetingGPT',
@@ -54,7 +54,7 @@ const projects = [
     metric: 'Accuracy',
     metricValue: '92%',
     githubUrl: 'https://github.com/dimasergei/meetinggpt',
-    demoUrl: 'https://frontend-7kmda8q0r-dimasergeis-projects.vercel.app',
+    demoUrl: 'https://frontend-31mi0p1qm-dimasergeis-projects.vercel.app',
   }
 ]
 
